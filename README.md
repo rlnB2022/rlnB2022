@@ -36,4 +36,4 @@ Technologies I have used or am familiar with:
 </div>
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=rlnB2022
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rlnB2022&theme=dark&background=000000)](https://git.io/streak-stats)
