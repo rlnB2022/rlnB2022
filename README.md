@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 👋 Hi, I’m Rick
+- 👋 Hi, I’m Rick.
 - 👀 I'm a React Software Engineer.
 - 🌱 Currently learning Next.js.
 - 💞️ I’m looking for a position as a React Software Engineer.
