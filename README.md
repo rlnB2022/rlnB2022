@@ -16,7 +16,6 @@
 - 👀 I'm a React Software Engineer.
 - 🌱 Currently learning Next.js.
 - 💞️ I’m looking for a position as a React Software Engineer.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rickwilliambeyer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 -  ⚡ Fun fact: **Baseball nerd**
