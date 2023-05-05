@@ -21,7 +21,7 @@
 ---
 
 Technologies I have used or am familiar with:
-React, Redux, Javascript, HTML, CSS, Git, Tailwind, PHP, and Bootstrap
+React, Redux, Javascript, HTML, CSS, Git, Tailwind, PHP, Bootstrap, Jest and React Testing Library.
 <div>
   <img alt="redux" width="60px" src="https://user-images.githubusercontent.com/5834000/125217342-00180000-e286-11eb-8b7d-a3d4a39f68ff.png" />
   <img alt="css3" width="60px" src="https://user-images.githubusercontent.com/5834000/125217360-0c03c200-e286-11eb-90aa-0fa66c6c82b7.png" />
