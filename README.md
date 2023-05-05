@@ -30,7 +30,8 @@ React, Redux, Javascript, HTML, CSS, Git, Tailwind, PHP, and Bootstrap
   <img alt="git" width="60px" src="https://user-images.githubusercontent.com/5834000/125217429-36557f80-e286-11eb-84c6-05e346cebe8a.png" />
   <img alt="tailwindCSS" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
   <img alt="php" width="60px" src="https://user-images.githubusercontent.com/5834000/125217489-68ff7800-e286-11eb-945a-db9d82dedaa4.png" />
-  <img alt="bootstrap" width="60px" src="https://user-images.githubusercontent.com/5834000/125217513-774d9400-e286-11eb-992f-a9729ffdc975.png" />
+  <img alt="bootstrap" width="60px" src="[https://user-images.githubusercontent.com](https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg)" />
+  <img alt="jest" width="60px" src="" />
 </div>
 
 
