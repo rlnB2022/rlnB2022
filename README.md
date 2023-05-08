@@ -16,7 +16,7 @@
 - 👀 I'm a React Software Engineer with 1 1/2 years of professional experience in the industry.
 - 🌱 Currently learning Next.js.
 - 💞️ I’m looking for a position as a React Software Engineer.
--  ⚡ Fun fact: **Baseball nerd - GO HALOS! <img style="position: relative; top: 4px" src="https://deltafonts.com/wp-content/uploads/Los-Angeles-Angels-of-Anaheim-Logo.png" alt="A with a halo" width="25px" />**
+-  ⚡ Fun fact: **Baseball nerd - GO HALOS! <img style="background-color: green" src="https://deltafonts.com/wp-content/uploads/Los-Angeles-Angels-of-Anaheim-Logo.png" alt="A with a halo" width="25px" />**
 
 ---
 
