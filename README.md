@@ -15,7 +15,7 @@
 - 👋 Hi, I’m Rick.
 - 👀 I'm a React Software Engineer with 1 1/2 years of professional experience in the industry.
 - 🌱 I love to learn! Currently learning Next.js.
-- 💞️ I’m looking for a position as a React Software Engineer.
+- 💞️ I’m looking for a position as a Front-End Software Engineer.
 -  ⚡ Fun fact: **Baseball nerd - GO HALOS! <img src="https://deltafonts.com/wp-content/uploads/Los-Angeles-Angels-of-Anaheim-Logo.png" alt="A with a halo" width="25px" />**
 
 ---
