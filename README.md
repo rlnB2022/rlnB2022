@@ -14,7 +14,7 @@
 
 - 👋 Hi, I’m Rick.
 - 👀 I'm a React Software Engineer with almost 2 years of professional experience in the industry.
-- 🌱 I love to learn! Wouldn't it be great if I knew how to write back-end code as well?  Sure it is!  Currently learning Ruby on Rails.
+- 🌱 I love to learn! I thought it would be great if I knew how to write back-end code. Currently learning Ruby on Rails!
 - 💞️ I’m looking for a position as a Front-End Software Engineer.
 -  ⚡ Fun fact: **Baseball nerd - GO HALOS! <img src="https://deltafonts.com/wp-content/uploads/Los-Angeles-Angels-of-Anaheim-Logo.png" alt="A with a halo" width="25px" />**
 
