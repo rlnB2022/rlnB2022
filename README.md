@@ -13,7 +13,7 @@
 </div>
 
 - 👋 Hi, I’m Rick.
-- 👀 I'm a Front End Web Developer with almost 2 years of professional experience in the industry.
+- 👀 I'm a Front End React Developer with almost 2 years of professional experience in the industry.
 - 🌱 I absolutely love to learn! I've always wanted to learn Wordpress, so I'm doing just that!
 - 💞️ I’m looking for a position as a Front-End Web Developer.
 -  ⚡ Fun fact: **Baseball nerd - GO HALOS! <img src="https://deltafonts.com/wp-content/uploads/Los-Angeles-Angels-of-Anaheim-Logo.png" alt="A with a halo" width="25px" />**
